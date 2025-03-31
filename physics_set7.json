@@ -1,0 +1,93 @@
+[
+    {
+      "pytanie": "Która planeta jest czwarta od Słońca?",
+      "odpowiedzi": ["Ziemia", "Mars", "Jowisz", "Saturn"],
+      "poprawna": 1,
+      "kategoria": "astronomia"
+    },
+    {
+      "pytanie": "Jednostką pojemności elektrycznej jest...",
+      "odpowiedzi": ["Farad", "Amper", "Wolt", "Om"],
+      "poprawna": 0,
+      "kategoria": "elektryczność"
+    },
+    {
+      "pytanie": "Która z wymienionych sił jest siłą bezkontaktową?",
+      "odpowiedzi": ["Siła oporu powietrza", "Siła grawitacyjna", "Siła tarcia", "Siła sprężystości"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy amperomierz?",
+      "odpowiedzi": ["Napięcie", "Opór", "Natężenie prądu", "Moc"],
+      "poprawna": 2,
+      "kategoria": "elektryczność"
+    },
+    {
+      "pytanie": "Jak nazywa się zjawisko polegające na odbiciu fali dźwiękowej od przeszkody?",
+      "odpowiedzi": ["Refrakcja", "Echa", "Dyfrakcja", "Interferencja"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jaką jednostką mierzy się czas?",
+      "odpowiedzi": ["Sekunda", "Gram", "Metr", "Amper"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest przyspieszenie?",
+      "odpowiedzi": ["Stosunek drogi do czasu", "Stosunek siły do masy", "Stosunek pracy do mocy", "Stosunek zmiany prędkości do czasu"],
+      "poprawna": 3,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy manometr?",
+      "odpowiedzi": ["Prędkość", "Ciśnienie", "Natężenie prądu", "Temperaturę"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Który gaz jest najlżejszy?",
+      "odpowiedzi": ["Tlen", "Azot", "Wodór", "Hel"],
+      "poprawna": 2,
+      "kategoria": "przyroda"
+    },
+    {
+      "pytanie": "Co to jest prąd przemienny?",
+      "odpowiedzi": ["Prąd o stałym kierunku", "Prąd o zmiennym kierunku", "Prąd o stałym natężeniu", "Prąd o zmiennym napięciu"],
+      "poprawna": 1,
+      "kategoria": "elektryczność"
+    },
+    {
+      "pytanie": "Który z poniższych jest przykładem źródła energii nieodnawialnej?",
+      "odpowiedzi": ["Wiatrak", "Słońce", "Ropa naftowa", "Woda"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jaki wzór wyraża energię kinetyczną?",
+      "odpowiedzi": ["E = mc²", "E = 1/2 m v²", "E = Fd", "E = mgh"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co opisuje równanie Bernoulliego?",
+      "odpowiedzi": ["Zależność między siłą, masą i przyspieszeniem", "Zależność między ciśnieniem, prędkością i wysokością", "Zależność między energią, mocą i czasem", "Zależność między prędkością, drogą i czasem"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest ciepło właściwe?",
+      "odpowiedzi": ["Miara energii kinetycznej", "Miara energii potencjalnej", "Miara ilości ciepła potrzebnej do podgrzania jednostki masy o jeden stopień", "Miara natężenia prądu"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jak nazywa się zjawisko rozpraszania światła przez maleńkie cząstki?",
+      "odpowiedzi": ["Refrakcja", "Dyfrakcja", "Rozpraszanie Rayleigha", "Odbicie"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    }
+  ]
+  

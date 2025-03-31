@@ -1,0 +1,92 @@
+[
+  {
+    "pytanie": "Która z tych wielkości NIE wpływa na ciśnienie cieczy na dnie naczynia?",
+    "odpowiedzi": ["Przyspieszenie grawitacyjne", "Powierzchnia dna", "Gęstość cieczy", "Wysokość słupa cieczy"],
+    "poprawna": 1,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co oznacza druga zasada dynamiki Newtona?",
+    "odpowiedzi": ["Siła jest równa iloczynowi masy i przyspieszenia", "Ciało pozostaje w spoczynku, jeśli nie działa na nie siła", "Energia jest zachowana w układzie zamkniętym", "Akcja i reakcja mają tę samą wartość"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Która planeta jest największa w Układzie Słonecznym?",
+    "odpowiedzi": ["Mars", "Saturn", "Jowisz", "Neptun"],
+    "poprawna": 2,
+    "kategoria": "astronomia"
+  },
+  {
+    "pytanie": "Jakie ciało na pewno porusza się ruchem jednostajnym prostoliniowym?",
+    "odpowiedzi": ["Ciało w polu grawitacyjnym", "Ciało działające siłą na inne ciało", "Ciało o zmieniającej się prędkości", "Ciało bez sił działających na nie"],
+    "poprawna": 3,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Jak nazywa się siła, która przyciąga ciała do Ziemi?",
+    "odpowiedzi": ["Grawitacja", "Elektrostatyka", "Magnetyzm", "Tarcie"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Jaką jednostką mierzy się masę?",
+    "odpowiedzi": ["Kilogram", "Metr", "Sekunda", "Amper"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co to jest prędkość?",
+    "odpowiedzi": ["Stosunek drogi do czasu", "Stosunek siły do masy", "Stosunek przyspieszenia do czasu", "Stosunek pracy do mocy"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Jaką jednostkę ma moc?",
+    "odpowiedzi": ["Kulomb", "Dżul", "Wat", "Niuton"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co to jest energia kinetyczna?",
+    "odpowiedzi": ["Energia związana z ruchem ciała", "Energia związana z położeniem ciała", "Energia potencjalna", "Energia cieplna"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Który z poniższych jest przykładem źródła energii odnawialnej?",
+    "odpowiedzi": ["Elektrownia węglowa", "Elektrownia jądrowa", "Wiatrak", "Fabryka"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co opisuje prawo Ohma?",
+    "odpowiedzi": ["Zależność między napięciem, prądem i oporem", "Zależność między masą, przyspieszeniem i siłą", "Zależność między prędkością, drogą i czasem", "Zależność między energią, mocą i czasem"],
+    "poprawna": 0,
+    "kategoria": "elektryczność"
+  },
+  {
+    "pytanie": "Co to jest opór elektryczny?",
+    "odpowiedzi": ["Miara przeciwstawiania się przepływowi prądu", "Miara siły przyciągania magnetycznego", "Miara różnicy potencjałów", "Miara natężenia prądu"],
+    "poprawna": 0,
+    "kategoria": "elektryczność"
+  },
+  {
+    "pytanie": "Która z tych wielkości jest wektorowa?",
+    "odpowiedzi": ["Energia", "Temperatura", "Siła", "Masa"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Który gaz jest głównym składnikiem atmosfery Ziemi?",
+    "odpowiedzi": ["Tlen", "Azot", "Dwutlenek węgla", "Hel"],
+    "poprawna": 1,
+    "kategoria": "przyroda"
+  },
+  {
+    "pytanie": "Co to jest gęstość?",
+    "odpowiedzi": ["Stosunek energii do masy", "Stosunek masy do objętości", "Stosunek prędkości do czasu", "Stosunek siły do powierzchni"],
+    "poprawna": 1,
+    "kategoria": "fizyka"
+  }
+]

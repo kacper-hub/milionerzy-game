@@ -1,0 +1,93 @@
+[
+    {
+      "pytanie": "Jednostka podstawowa czasu SI?",
+      "odpowiedzi": ["Godzina", "Sekunda", "Minuta", "Dzień"],
+      "poprawna": 1,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Ma 3600 sekund?",
+      "odpowiedzi": ["Minuta", "Tydzień", "Dzień", "Godzina"],
+      "poprawna": 3,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Jeden z 12 w roku?",
+      "odpowiedzi": ["Dzień", "Tydzień", "Miesiąc", "Kwartał"],
+      "poprawna": 2,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Służy do pomiaru czasu?",
+      "odpowiedzi": ["Barometr", "Zegar", "Higrometr", "Termometr"],
+      "poprawna": 1,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Wielkość fizyczna oznaczona literą m?",
+      "odpowiedzi": ["Masa", "Metr", "Temperatura", "Czas"],
+      "poprawna": 1,
+      "kategoria": "wielkości fizyczne"
+    },
+    {
+      "pytanie": "Przyrząd pomiarowy służący do pomiaru masy?",
+      "odpowiedzi": ["Barometr", "Zegar", "Waga", "Termometr"],
+      "poprawna": 2,
+      "kategoria": "przyrządy pomiarowe"
+    },
+    {
+      "pytanie": "Jednostka wartości siły?",
+      "odpowiedzi": ["Wolt", "Dżul", "Niuton", "Amper"],
+      "poprawna": 2,
+      "kategoria": "siła"
+    },
+    {
+      "pytanie": "Oznaczenie jednostki masy?",
+      "odpowiedzi": ["m", "s", "A", "Kg"],
+      "poprawna": 3,
+      "kategoria": "masa"
+    },
+    {
+      "pytanie": "Co to jest energia potencjalna?",
+      "odpowiedzi": ["Energia mechaniczna", "Energia związana z ruchem ciała", "Energia cieplna", "Energia związana z położeniem ciała"],
+      "poprawna": 3,
+      "kategoria": "energia"
+    },
+    {
+      "pytanie": "Jednostką siły w układzie SI jest...",
+      "odpowiedzi": ["Newton", "Amper", "Dżul", "Wolt"],
+      "poprawna": 0,
+      "kategoria": "siła"
+    },
+    {
+      "pytanie": "Co to jest praca mechaniczna?",
+      "odpowiedzi": ["Energia cieplna", "Energia związana z ruchem ciała", "Działanie siły na ciało w wyniku przesunięcia", "Energia związana z położeniem ciała"],
+      "poprawna": 2,
+      "kategoria": "mechanika"
+    },
+    {
+      "pytanie": "Co to jest moc mechaniczna?",
+      "odpowiedzi": ["Energia razy czas", "Prędkość razy masa", "Praca wykonana w jednostce czasu", "Siła razy czas"],
+      "poprawna": 2,
+      "kategoria": "mechanika"
+    },
+    {
+      "pytanie": "Który z poniższych jest przykładem zastosowania dźwigni?",
+      "odpowiedzi": ["Barometr", "Prędkościomierz", "Termometr", "Huśtawka"],
+      "poprawna": 3,
+      "kategoria": "maszyny proste"
+    },
+    {
+      "pytanie": "Co mierzy siłomierz?",
+      "odpowiedzi": ["Moc", "Napięcie", "Prędkość", "Siłę"],
+      "poprawna": 3,
+      "kategoria": "dynamika"
+    },
+    {
+      "pytanie": "Która z poniższych jednostek jest jednostką ciśnienia?",
+      "odpowiedzi": ["Pascal", "Amper", "Dżul", "Newton"],
+      "poprawna": 0,
+      "kategoria": "ciśnienie"
+    }
+  ]
+  

@@ -1,0 +1,92 @@
+[
+  {
+    "pytanie": "Która planeta Układu Słonecznego ma największą grawitację?",
+    "odpowiedzi": ["Neptun", "Mars", "Jowisz", "Ziemia"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Jednostką natężenia prądu elektrycznego jest...",
+    "odpowiedzi": ["Om", "Wat", "Wolt", "Amper"],
+    "poprawna": 3,
+    "kategoria": "elektryczność"
+  },
+  {
+    "pytanie": "Która planeta jest największa w Układzie Słonecznym?",
+    "odpowiedzi": ["Neptun", "Mars", "Saturn", "Jowisz"],
+    "poprawna": 3,
+    "kategoria": "astronomia"
+  },
+  {
+    "pytanie": "Co mierzy woltomierz?",
+    "odpowiedzi": ["Napięcie", "Moc", "Prąd", "Opór"],
+    "poprawna": 0,
+    "kategoria": "elektryczność"
+  },
+  {
+    "pytanie": "Jak nazywa się siła, która przyciąga ciała do Ziemi?",
+    "odpowiedzi": ["Tarcie", "Magnetyzm", "Grawitacja", "Elektrostatyka"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Jaką jednostką mierzy się masę?",
+    "odpowiedzi": ["Kilogram", "Amper", "Sekunda", "Metr"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co to jest prędkość?",
+    "odpowiedzi": ["Stosunek drogi do czasu", "Stosunek siły do masy", "Stosunek pracy do mocy", "Stosunek przyspieszenia do czasu"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Jaka jest wartość przyspieszenia ziemskiego (w przybliżeniu)?",
+    "odpowiedzi": ["10 m/s²", "9,81 m/s²", "9,8 m/s²", "8,5 m/s²"],
+    "poprawna": 1,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co to jest energia kinetyczna?",
+    "odpowiedzi": ["Energia cieplna", "Energia potencjalna", "Energia związana z ruchem ciała", "Energia związana z położeniem ciała"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Który z poniższych jest przykładem źródła energii odnawialnej?",
+    "odpowiedzi": ["Wiatrak", "Fabryka", "Elektrownia węglowa", "Elektrownia jądrowa"],
+    "poprawna": 0,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Co opisuje prawo Ohma?",
+    "odpowiedzi": ["Zależność między napięciem, prądem i oporem", "Zależność między energią, mocą i czasem", "Zależność między masą, przyspieszeniem i siłą", "Zależność między prędkością, drogą i czasem"],
+    "poprawna": 0,
+    "kategoria": "elektryczność"
+  },
+  {
+    "pytanie": "Co to jest opór elektryczny?",
+    "odpowiedzi": ["Miara natężenia prądu", "Miara siły przyciągania magnetycznego", "Miara różnicy potencjałów", "Miara przeciwstawiania się przepływowi prądu"],
+    "poprawna": 3,
+    "kategoria": "elektryczność"
+  },
+  {
+    "pytanie": "Co mierzy termometr?",
+    "odpowiedzi": ["Ciśnienie", "Temperaturę", "Wilgotność", "Prędkość"],
+    "poprawna": 1,
+    "kategoria": "fizyka"
+  },
+  {
+    "pytanie": "Który gaz jest głównym składnikiem atmosfery Ziemi?",
+    "odpowiedzi": ["Hel", "Azot", "Tlen", "Dwutlenek węgla"],
+    "poprawna": 1,
+    "kategoria": "przyroda"
+  },
+  {
+    "pytanie": "Jak nazywa się zjawisko odbijania światła od powierzchni?",
+    "odpowiedzi": ["Refrakcja", "Rozszczepienie", "Odbicie", "Dyfrakcja"],
+    "poprawna": 2,
+    "kategoria": "fizyka"
+  }
+]

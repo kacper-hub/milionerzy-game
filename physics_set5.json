@@ -1,0 +1,94 @@
+[
+    {
+      "pytanie": "Co mierzymy w stopniach Celsjusza?",
+      "odpowiedzi": ["Temperaturę", "Ciśnienie", "Prędkość", "Siłę"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Ma 3600 sekund?",
+      "odpowiedzi": ["Dzień", "Minuta", "Godzina", "Tydzień"],
+      "poprawna": 2,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Jeden z 12 w roku?",
+      "odpowiedzi": ["Tydzień", "Kwartał", "Miesiąc", "Dzień"],
+      "poprawna": 2,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Służy do pomiaru czasu?",
+      "odpowiedzi": ["Termometr", "Barometr", "Higrometr", "Zegar"],
+      "poprawna": 3,
+      "kategoria": "czas"
+    },
+    {
+      "pytanie": "Jak nazywa się zmiana stanu skupienia z cieczy na gaz?",
+      "odpowiedzi": ["Parowanie", "Kondensacja", "Sublimacja", "Topnienie"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Przyrząd pomiarowy służący do pomiaru masy?",
+      "odpowiedzi": ["Termometr", "Zegar", "Waga", "Barometr"],
+      "poprawna": 2,
+      "kategoria": "przyrządy pomiarowe"
+    },
+    {
+      "pytanie": "Jednostka wartości siły?",
+      "odpowiedzi": ["Dżul", "Amper", "Niuton", "Wolt"],
+      "poprawna": 2,
+      "kategoria": "siła"
+    },
+    {
+      "pytanie": "Oznaczenie jednostki masy?",
+      "odpowiedzi": ["Kg", "s", "m", "A"],
+      "poprawna": 0,
+      "kategoria": "masa"
+    },
+    {
+      "pytanie": "Co to jest energia potencjalna?",
+      "odpowiedzi": ["Energia cieplna", "Energia związana z położeniem ciała", "Energia związana z ruchem ciała", "Energia mechaniczna"],
+      "poprawna": 1,
+      "kategoria": "energia"
+    },
+    {
+      "pytanie": "Jednostką siły w układzie SI jest...",
+      "odpowiedzi": ["Newton", "Wolt", "Dżul", "Amper"],
+      "poprawna": 0,
+      "kategoria": "siła"
+    },
+    {
+      "pytanie": "Co to jest praca mechaniczna?",
+      "odpowiedzi": ["Energia związana z ruchem ciała", "Działanie siły na ciało w wyniku przesunięcia", "Energia cieplna", "Energia związana z położeniem ciała"],
+      "poprawna": 1,
+      "kategoria": "mechanika"
+    },
+    {
+      "pytanie": "Jakie są trzy podstawowe stany skupienia materii?",
+      "odpowiedzi": ["Gaz, ciecz, ciało stałe", "Ciecz, para, osad", "Ciało stałe, plazma, gaz", "Para, woda, lód"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzymy w metrach?",
+      "odpowiedzi": ["Prędkość", "Długość", "Ciśnienie", "Siłę"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+
+    },
+    {
+      "pytanie": "Co oznacza skrót SI w fizyce?",
+      "odpowiedzi": ["System Informacji", "System Jednostek Międzynarodowych", "Super Inteligencja", "Silnik Indukcyjny"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Która z poniższych jednostek jest jednostką ciśnienia?",
+      "odpowiedzi": ["Newton", "Pascal", "Dżul", "Amper"],
+      "poprawna": 1,
+      "kategoria": "ciśnienie"
+    }
+  ]
+  

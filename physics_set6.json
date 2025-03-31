@@ -1,0 +1,93 @@
+[
+    {
+      "pytanie": "Jaka jest jednostka masy w układzie SI?",
+        "odpowiedzi": ["Gram", "Niuton", "Kilogram", "Funt"],
+        "poprawna": 2,
+        "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jednostką pojemności elektrycznej jest...",
+      "odpowiedzi": ["Farad", "Amper", "Wolt", "Om"],
+      "poprawna": 0,
+      "kategoria": "elektryczność"
+    },
+    {
+      "pytanie": "Która jednostka jest jednostką pracy w układzie SI?",
+      "odpowiedzi": ["Wat", "Niuton", "Dżul", "Wolt"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co jest przyczyną dnia i nocy na Ziemi?",
+      "odpowiedzi": ["Ruch obrotowy Ziemi", "Ruch obiegowy Ziemi", "Grawitacja Księżyca", "Ruch Słońca"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jak nazywa się zjawisko polegające na odbiciu fali dźwiękowej od przeszkody?",
+      "odpowiedzi": ["Refrakcja", "Echa", "Dyfrakcja", "Interferencja"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jaką jednostką mierzy się czas?",
+      "odpowiedzi": ["Sekunda", "Gram", "Metr", "Amper"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jak nazywa się proces przechodzenia ciała stałego w ciecz?",
+      "odpowiedzi": ["Kondensacja", "Parowanie", "Topnienie", "Sublimacja"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy manometr?",
+      "odpowiedzi": ["Prędkość", "Ciśnienie", "Natężenie prądu", "Temperaturę"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Który gaz jest najlżejszy?",
+      "odpowiedzi": ["Tlen", "Azot", "Wodór", "Hel"],
+      "poprawna": 2,
+      "kategoria": "przyroda"
+    },
+    {
+      "pytanie": "Co jest źródłem dźwięku?",
+      "odpowiedzi": ["Wibracje ciał", "Światło", "Grawitacja", "Ruch powietrza"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Który z poniższych jest przykładem źródła energii nieodnawialnej?",
+      "odpowiedzi": ["Wiatrak", "Słońce", "Ropa naftowa", "Woda"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co powoduje, że magnes przyciąga żelazo?",
+      "odpowiedzi": ["Siła magnetyczna", "Grawitacja", "Siła tarcia", "Ciśnienie"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co jest jednostką prędkości w układzie SI?",
+      "odpowiedzi": ["m/s", "km/h", "cm/s", "m/h"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Która z tych planet jest gazowym olbrzymem?",
+      "odpowiedzi": ["Mars", "Ziemia", "Jowisz", "Wenus"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co powoduje powstawanie tęczy?",
+      "odpowiedzi": ["Załamanie i rozszczepienie światła w kroplach wody", "Odbicie światła od chmur", "Interferencja fal elektromagnetycznych", "Magnetyzm"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    }
+  ]
+  

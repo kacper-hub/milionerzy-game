@@ -1,0 +1,93 @@
+[
+    {
+      "pytanie": "Co to jest energia potencjalna?",
+      "odpowiedzi": ["Energia związana z położeniem ciała", "Energia związana z ruchem ciała", "Energia mechaniczna", "Energia cieplna"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest prędkość?",
+      "odpowiedzi": ["Stosunek pracy do mocy", "Stosunek przyspieszenia do czasu", "Stosunek drogi do czasu", "Stosunek siły do masy"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jaka jest jednostka mocy?",
+      "odpowiedzi": ["Niuton", "Dżul", "Wolt", "Wat"],
+      "poprawna": 3,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jakie jest przyspieszenie grawitacyjne na powierzchni Ziemi?",
+      "odpowiedzi": ["10 m/s²", "9,81 m/s²", "9,8 m/s²", "8,5 m/s²"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy siłomierz?",
+      "odpowiedzi": ["Moc", "Prędkość", "Siłę", "Napięcie"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest opór elektryczny?",
+      "odpowiedzi": ["Miara różnicy potencjałów", "Miara natężenia prądu", "Miara przeciwstawiania się przepływowi prądu", "Miara siły przyciągania magnetycznego"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest siła dośrodkowa?",
+      "odpowiedzi": ["Siła przeciwdziałająca ruchowi ciała", "Siła działająca na ciało poruszające się po okręgu skierowana do środka okręgu", "Siła przeciwdziałająca grawitacji", "Siła generowana przez tarcie"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy manometr?",
+      "odpowiedzi": ["Ciśnienie", "Prędkość", "Natężenie prądu", "Temperaturę"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jaka jest definicja pracy mechanicznej?",
+      "odpowiedzi": ["Praca wykonana w jednostce czasu", "Zdolność ciała do wykonania pracy", "Działanie siły na ciało w wyniku przesunięcia", "Zmienność prędkości ciała w czasie"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest energia kinetyczna?",
+      "odpowiedzi": ["Energia związana z położeniem ciała", "Energia związana z ruchem ciała", "Energia potencjalna", "Energia cieplna"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co opisuje równanie Bernoulliego?",
+      "odpowiedzi": ["Zależność między energią, mocą i czasem", "Zależność między siłą, masą i przyspieszeniem", "Zależność między ciśnieniem, prędkością i wysokością", "Zależność między prędkością, drogą i czasem"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest ciepło właściwe?",
+      "odpowiedzi": ["Miara energii kinetycznej", "Miara energii potencjalnej", "Miara ilości ciepła potrzebnej do podgrzania jednostki masy o jeden stopień", "Miara natężenia prądu"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jak nazywa się zjawisko rozpraszania światła przez maleńkie cząstki?",
+      "odpowiedzi": ["Refrakcja", "Dyfrakcja", "Rozpraszanie Rayleigha", "Odbicie"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Który z poniższych jest przykładem źródła energii odnawialnej?",
+      "odpowiedzi": ["Elektrownia węglowa", "Elektrownia jądrowa", "Wiatrak", "Fabryka"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest napięcie elektryczne?",
+      "odpowiedzi": ["Miara natężenia prądu", "Miara różnicy potencjałów", "Miara oporu", "Miara mocy"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    }
+  ]
+  

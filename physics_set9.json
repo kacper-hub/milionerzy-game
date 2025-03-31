@@ -1,0 +1,93 @@
+[
+    {
+      "pytanie": "Co to jest gęstość?",
+      "odpowiedzi": ["Stosunek masy do objętości", "Stosunek siły do powierzchni", "Stosunek prędkości do czasu", "Stosunek energii do masy"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Która z poniższych jednostek jest jednostką pracy?",
+      "odpowiedzi": ["Wat", "Dżul", "Niuton", "Wolt"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest przyspieszenie?",
+      "odpowiedzi": ["Stosunek prędkości do masy", "Stosunek zmiany prędkości do czasu", "Stosunek siły do powierzchni", "Stosunek pracy do czasu"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jakie jest przyspieszenie grawitacyjne na powierzchni Ziemi?",
+      "odpowiedzi": ["9,81 m/s²", "20m/s²", "8,5 m/s²", "48 m/s²"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy siłomierz?",
+      "odpowiedzi": ["Moc", "Prędkość", "Siłę", "Napięcie"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest energia mechaniczna?",
+      "odpowiedzi": ["Energia związana z ruchem ciała", "Energia związana z położeniem ciała", "Energia cieplna", "Energia kinetyczna i potencjalna razem"],
+      "poprawna": 3,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest ciepło właściwe?",
+      "odpowiedzi": ["Miara energii kinetycznej", "Miara energii potencjalnej", "Miara ilości ciepła potrzebnej do podgrzania jednostki masy o jeden stopień", "Miara natężenia prądu"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jakie jest działanie siły w ruchu prostoliniowym jednostajnym?",
+      "odpowiedzi": ["Ciało porusza się ruchem jednostajnie przyspieszonym", "Ciało porusza się ruchem jednostajnie opóźnionym", "Ciało porusza się ruchem jednostajnym", "Ciało porusza się ruchem zmiennym"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co mierzy barometr?",
+      "odpowiedzi": ["Wilgotność", "Ciśnienie atmosferyczne", "Temperaturę", "Prędkość wiatru"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co opisuje prawo Pascala?",
+      "odpowiedzi": ["Zachowanie energii w układzie", "Zależność między napięciem, prądem i oporem", "Zachowanie ciśnienia w cieczach", "Prawo grawitacji"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jak nazywa się zjawisko rozpraszania światła przez małe cząstki?",
+      "odpowiedzi": ["Odbicie", "Rozszczepienie", "Rozpraszanie Rayleigha", "Dyfrakcja"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Która jednostka jest jednostką ciśnienia?",
+      "odpowiedzi": ["Dżul", "Wolt", "Pascal", "Niuton"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Co to jest napięcie elektryczne?",
+      "odpowiedzi": ["Miara natężenia prądu", "Miara różnicy potencjałów", "Miara oporu", "Miara mocy"],
+      "poprawna": 1,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "Jak obliczyć drogę w ruchu jednostajnym?",
+      "odpowiedzi": ["Droga = Prędkość × Czas", "Droga = Prędkość / Czas", "Droga = Siła × Masa", "Droga = Praca / Moc"],
+      "poprawna": 0,
+      "kategoria": "fizyka"
+    },
+    {
+      "pytanie": "1 kilometr ile to metrów",
+      "odpowiedzi": ["10", "100", "1000", "10000"],
+      "poprawna": 2,
+      "kategoria": "fizyka"
+    }
+  ]
+  
