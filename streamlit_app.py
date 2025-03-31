@@ -24,7 +24,7 @@ nagrody = [100, 200, 300, 500, 1000, 2000, 4000, 8000, 16000, 32000,
 
 # Ustawienia strony Streamlit
 st.set_page_config(page_title="VETTER - quiz Milionerzy", layout="wide", initial_sidebar_state="collapsed")
-st.title('VETTER - Milionerzy')
+st.title('VETTER - quiz Milionerzy')
 
 # Sprawdzenie katalogu roboczego
 current_dir = os.getcwd()
